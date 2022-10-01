@@ -1,8 +1,8 @@
 provider "aws" {
 
   region     = "us-east-1"
-  access_key = "AKIAY7YRCSBMVN7NUIMG"
-  secret_key = "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"
+  access_key = 
+  secret_key = 
 } ## Bloque de provider y de auth
 
 ## Declaracion de recursos
